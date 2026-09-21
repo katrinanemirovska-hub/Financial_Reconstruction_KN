@@ -1,0 +1,152 @@
+{
+  "D041": {
+    "agent1": "Recognize the €90,000 received for unperformed September events as contract liabilities at 31 August.",
+    "agent2": "Defer €90,000 as contract liabilities because delivery occurs in September.",
+    "reasoning": "The €60,000 New Beginnings and €30,000 Fresh Freedom receipts relate to September services. Because performance had not occurred by 31 August, I recognize a €90,000 liability with cash already received.",
+    "calculation": "€60,000 + €30,000 = €90,000."
+  },
+  "D042": {
+    "agent1": "Loan liability, not income: receipt of a loan increases cash and debt without increasing profit.",
+    "agent2": "Record €50,000 loan liability, not ‘strategic income.’",
+    "reasoning": "The bank receipt is supported by a repayable loan agreement. Therefore it is financing rather than income: cash and debt increase by €50,000 while profit is unaffected.",
+    "calculation": ""
+  },
+  "D043": {
+    "agent1": "Capitalize the €60,000 machine as long-term PPE and recognize its cost over time through depreciation.",
+    "agent2": "Capitalize €60,000 PPE, available for use 10 May; depreciate separately.",
+    "reasoning": "The packaging machine is a long-term productive resource available for use from 10 May. I capitalize the €60,000 cost and recognize its cost over time through depreciation rather than expensing the entire purchase immediately.",
+    "calculation": ""
+  },
+  "D044": {
+    "agent1": "Capitalize the €20,000 photo booth as PPE, available for use from 10 May.",
+    "agent2": "Capitalize €20,000 PPE, not marketing expense; it is a durable asset available 10 May.",
+    "reasoning": "The photo booth is a durable resource available for use from 10 May and provides benefits over multiple periods. I therefore capitalize €20,000 as PPE rather than treating it as a marketing expense.",
+    "calculation": ""
+  },
+  "D045": {
+    "agent1": "Expense the €10,000 repair because it restores normal operation without improving the machine.",
+    "agent2": "Expense €10,000 as repair/maintenance. It restored normal output without added capacity or life.",
+    "reasoning": "The belt replacement, cleaning and calibration restored the machine to normal condition but did not increase capacity or useful life. Therefore I expense the €10,000 rather than capitalize it.",
+    "calculation": ""
+  },
+  "D046": {
+    "agent1": "Classify the €70,000 villa payment as an owner distribution reducing cash and equity without affecting business profit.",
+    "agent2": "Treat €70,000 as owner distribution, not marketing, payroll, or an asset. Reclassifying an expense increases retained earnings but reduces distributions by the same amount.",
+    "reasoning": "The evidence supports a personal purpose for the villa payment. I classify €70,000 as an owner distribution reducing cash and equity without reducing business profit.",
+    "calculation": ""
+  },
+  "D047": {
+    "agent1": "Classify €40,000 as owner distribution because a business purpose is insufficiently supported and management messages are less reliable.",
+    "agent2": "Treat €40,000 as owner distribution absent substantiated business purpose.",
+    "reasoning": "There is insufficient reliable evidence supporting a genuine business purpose for the owner-card spending. I therefore classify the €40,000 as an owner distribution rather than a business expense.",
+    "calculation": ""
+  },
+  "D048": {
+    "agent1": "Recognize €405,000 physical COGS for materials consumed on valid delivered sales, as stated in the warehouse evidence.",
+    "agent2": "Record materials used on delivered product sales as COGS. Use €396,000 if physical closing inventory is used; €405,000 is the conflicting warehouse-consumption figure.",
+    "reasoning": "The warehouse evidence states that €405,000 of physical product materials were consumed on valid delivered sales. I therefore use €405,000 as materials COGS and use the same figure consistently in the inventory roll-forward.",
+    "calculation": ""
+  },
+  "D049": {
+    "agent1": "Classify €80,000 event staff payroll as direct service COGS because the employees work directly on paid events.",
+    "agent2": "Classify €80,000 as direct service cost/COGS; €75,000 paid and €5,000 accrued within the period.",
+    "reasoning": "I classify the €80,000 event staff payroll as a direct service cost because these employees were directly involved in delivering paid events to customers. Therefore it belongs in direct service COGS rather than general operating expenses.",
+    "calculation": ""
+  },
+  "D056": {
+    "agent1": "Recognize €24,000 non-cash depreciation from the independent estimate, subject to the missing complete depreciation schedule.",
+    "agent2": "Record €24,000 depreciation expense; non-cash.",
+    "reasoning": "I use the independent €24,000 estimate as non-cash current-period depreciation. The full useful-life and method schedule remains unavailable.",
+    "calculation": ""
+  },
+  "D057": {
+    "agent1": "Write off €18,000 for R-17 because liquidation evidence confirms the loss condition existed at 31 August.",
+    "agent2": "Recognize €18,000 impairment/write-off for R-17. Post-period liquidation evidence confirms the 31 August condition.",
+    "reasoning": "The R-17 receivable is not recoverable because the customer entered liquidation and no recovery is expected. The later notice confirms the condition existed at 31 August, so I recognize the full €18,000 write-off.",
+    "calculation": ""
+  },
+  "D058": {
+    "agent1": "Inventory has nil saleable value, therefore the €22k carrying amount should be written off. There is also a separate €2k disposal quote; this should not be confused with the inventory carrying value.",
+    "agent2": "Write off €22,000 wet, unsaleable basement stock. Disposal cost is a separate unbooked potential obligation/cost.",
+    "reasoning": "Warehouse and independent evidence establish that the €22,000 damaged stock has no saleable value, so I write off its carrying amount. The separate €2,000 disposal quote is excluded from that write-off.",
+    "calculation": ""
+  },
+  "D059": {
+    "agent1": "Recognize a €25,000 legal expense and provision because external counsel considers the claim probable and this amount the best estimate.",
+    "agent2": "Recognize a €25,000 provision, the external counsel’s best estimate.",
+    "reasoning": "External counsel considers the former employee claim probable and provides a €20,000–€30,000 range with €25,000 as the best estimate. Because the obligation is probable and reliably estimable, I recognize a €25,000 provision.",
+    "calculation": ""
+  },
+  "D064": {
+    "agent1": "Recognize €180,000 NorthStar revenue on delivery and acceptance on 12 February, with all €180,000 collected.",
+    "agent2": "Recognize €180,000 revenue when accepted on 12 February; cash was collected.",
+    "reasoning": "NorthStar was delivered and accepted on 12 February, completing the performance obligation. I recognize €180,000 revenue and match the full cash collection.",
+    "calculation": ""
+  },
+  "D065": {
+    "agent1": "Recognize Revenue €200k after delivery/completion. Cash received €142k, therefore €58k receivable remains.",
+    "agent2": "Recognize €200,000 revenue on 18 March; €142,000 cash and €58,000 receivable.",
+    "reasoning": "The Freedom order was delivered and accepted, so the full €200,000 invoice is revenue even though only €142,000 was collected. The unpaid €58,000 remains in receivables.",
+    "calculation": "€200,000 − €142,000 = €58,000."
+  },
+  "D066": {
+    "agent1": "Recognize Revenue €100k after completed event. Cash €70k, therefore AR €30k.",
+    "agent2": "Recognize €100,000 event revenue on completion 29 April; €70,000 collected and €30,000 receivable.",
+    "reasoning": "The Phoenix event was completed and accepted on 29 April, supporting €100,000 revenue. Of this, €70,000 was collected and €30,000 remains receivable.",
+    "calculation": "€100,000 − €70,000 = €30,000."
+  },
+  "D067": {
+    "agent1": "Recognize Revenue €120k. Cash €95k, therefore AR €25k.",
+    "agent2": "Recognize €120,000 revenue on delivery 20 June; €95,000 collected and €25,000 receivable.",
+    "reasoning": "Liberty was delivered and accepted on 20 June, supporting €120,000 revenue. Collections of €95,000 leave €25,000 receivable.",
+    "calculation": "€120,000 − €95,000 = €25,000."
+  },
+  "D068": {
+    "agent1": "Retain the €90,000 received as a contract liability because the September services had not been delivered by 31 August.",
+    "agent2": "Defer the €60,000 New Beginnings and €30,000 Fresh Freedom receipts as €90,000 contract liabilities.",
+    "reasoning": "The €60,000 New Beginnings and €30,000 Fresh Freedom receipts relate to September performance. No service had been delivered by 31 August, so I defer the full €90,000 as a contract liability.",
+    "calculation": ""
+  },
+  "D071": {
+    "agent1": "€18,000 for R-17.",
+    "agent2": "Write off or fully provide €18,000 for R-17. No recovery is expected; the liquidation existed at year-end.",
+    "reasoning": "The evidence indicates no expected recovery from R-17 and confirms that the condition existed at 31 August. I therefore write off/provide the full €18,000.",
+    "calculation": ""
+  },
+  "D072": {
+    "agent1": "€22,000 inventory write-off. A separate €2k disposal cost estimate exists; I do not automatically include it within the €22k inventory write-off.",
+    "agent2": "Write off €22,000 because stock has nil saleable value. Do not include the separate €2,000 disposal quote in inventory cost.",
+    "reasoning": "The damaged stock has nil saleable value, so the €22,000 carrying amount is not recoverable and must be written off. The separate €2,000 disposal quote is not part of the inventory carrying amount.",
+    "calculation": ""
+  },
+  "D073": {
+    "agent1": "€25,000 — external counsel's best estimate. The reasonable uncertainty range of €20k–€30k should be disclosed.",
+    "agent2": "Recognize €25,000. The €20,000–€30,000 range supports the counsel’s €25,000 best estimate.",
+    "reasoning": "External counsel gives a €20,000–€30,000 range and identifies €25,000 as the best estimate. I therefore recognize €25,000 and disclose the estimation range.",
+    "calculation": ""
+  },
+  "D074": {
+    "agent1": "Use €24,000 period depreciation based on the independent schedule estimate.",
+    "agent2": "Use €24,000, subject to obtaining the underlying useful-life and method schedule. Closing accumulated depreciation becomes €69,000 (€45,000 opening + €24,000).",
+    "reasoning": "The current-period depreciation is €24,000. The €69,000 amount is the closing accumulated depreciation balance, calculated as €45,000 opening accumulated depreciation + €24,000 current-period depreciation.",
+    "calculation": "€45,000 + €24,000 = €69,000."
+  },
+  "D075": {
+    "agent1": "Carry inventory at €112,000 using €80,000 opening inventory + €459,000 purchases − €405,000 consumed − €22,000 damaged stock.",
+    "agent2": "Carry inventory at €121,000 based on €79,000 Finally Single materials and €42,000 Never Call Back materials, excluding damaged stock.",
+    "reasoning": "The roll-forward reconciles to €112,000, which I retain as the accounting balance. The physical count implies €121,000, so the €9,000 discrepancy remains separately disclosed.",
+    "calculation": "€80,000 + €459,000 − €405,000 − €22,000 = €112,000."
+  },
+  "D091": {
+    "agent1": "My proposal is Yes: valuation/earn-out should be based on reconstructed accounts rather than unreconciled management P&L. This does not mean the management accounts should simply be approved; they first need to be corrected and reconciled.",
+    "agent2": "Do not approve yet. Correct entries should be posted, but unresolved inventory and equity reconciliations require investigation before valuation.",
+    "reasoning": "The corrected accounting errors and key schedules have been reconciled and provide a more reliable basis for valuation than the management figures. However, the unresolved insurance amount and €9,000 inventory discrepancy must remain explicitly disclosed and must not be replaced with unsupported assumptions.",
+    "calculation": ""
+  },
+  "D100": {
+    "agent1": "Reject management’s €312,000 profit because confirmed cutoff, classification and omission errors make it unreliable.",
+    "agent2": "Reject management’s €312,000 profit, including €90,000 premature revenue and €50,000 loan income; the historical provisional reconstruction was €74,000.",
+    "reasoning": "Management’s €312,000 profit contains premature revenue and misclassified financing, so I reject it for the earn-out. The corrected €65,000 profit before unresolved insurance is the appropriate starting point, with insurance and the €9,000 inventory discrepancy disclosed.",
+    "calculation": ""
+  }
+}
