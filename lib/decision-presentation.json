@@ -56,7 +56,7 @@
   "D056": {
     "agent1": "Recognize €24,000 non-cash depreciation from the independent estimate, subject to the missing complete depreciation schedule.",
     "agent2": "Record €24,000 depreciation expense; non-cash.",
-    "reasoning": "I use the independent €24,000 estimate as non-cash current-period depreciation. The full useful-life and method schedule remains unavailable.",
+    "reasoning": "E08 Asset records provides the independent €24,000 estimate for current-period depreciation. It is non-cash, but the full useful-life and method schedule remains unavailable, so confidence is medium.",
     "calculation": ""
   },
   "D057": {
@@ -104,7 +104,7 @@
   "D068": {
     "agent1": "Retain the €90,000 received as a contract liability because the September services had not been delivered by 31 August.",
     "agent2": "Defer the €60,000 New Beginnings and €30,000 Fresh Freedom receipts as €90,000 contract liabilities.",
-    "reasoning": "The €60,000 New Beginnings and €30,000 Fresh Freedom receipts relate to September performance. No service had been delivered by 31 August, so I defer the full €90,000 as a contract liability.",
+    "reasoning": "E04 contract/customer evidence schedules the New Beginnings and Fresh Freedom services for September, while E02 confirms the €60,000 and €30,000 receipts. No service had been delivered by 31 August, so I defer the full €90,000 as a contract liability.",
     "calculation": ""
   },
   "D071": {
