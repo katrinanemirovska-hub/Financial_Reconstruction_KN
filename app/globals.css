@@ -11,7 +11,7 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid #87
 .reason{padding:1rem 0;background:transparent}.reason p,.trail p,.student p{line-height:1.6}
 .calculation{background:#f3edf7;border:1px solid #ddd1e5;border-radius:9px;padding:.8rem;margin-bottom:1rem}
 .calculation p{margin:0;font-variant-numeric:tabular-nums}
-.effect{margin-bottom:1.2rem}.effect b{font-variant-numeric:tabular-nums}.supporting-evidence .chips{margin-top:.4rem}
+.effect{margin-bottom:1.2rem}.effect b{font-variant-numeric:tabular-nums}.effect-note{margin:1rem 0;padding:.8rem 1rem;background:#f8f9fd;border-left:3px solid #879bd2}.effect-note p{margin:.2rem 0}.supporting-evidence .chips{margin-top:.4rem}
 .badges i{font-size:.7rem}.status-badge{background:#edf1fa;color:#46557f}
 .decision summary:after{content:"+";color:#46557f;font-size:1.2rem}.decision[open]>summary:after{content:"−"}
 .decision summary>div:first-child{flex:1;min-width:0}.decision summary strong{overflow-wrap:anywhere}
